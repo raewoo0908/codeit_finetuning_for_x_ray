@@ -6,3 +6,6 @@ data/
 
 # 팀원 코드
 ref/
+
+# eda용 캐시
+eda_cache/
