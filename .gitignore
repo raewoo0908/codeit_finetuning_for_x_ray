@@ -9,3 +9,9 @@ ref/
 
 # eda용 캐시
 eda_cache/
+
+# 결과
+results/
+
+# vscode
+.DS_Store
